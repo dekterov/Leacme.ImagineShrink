@@ -5,6 +5,7 @@
 This application features the ability to bulk reduce the size of .PNG and .JPEG images through lossy compression algorithms.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703251-e04e7480-2d90-11ea-980e-ad4f43d7e955.png)
 
 ## Application Compiling
 
